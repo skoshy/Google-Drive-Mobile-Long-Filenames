@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Google Drive Mobile Long Filenames
-// @namespace    http://tampermonkey.net/
-// @version      0.1.0
-// @description  try to take over the world!
-// @author       You
+// @namespace    http://example.com
+// @version      0.1.1
+// @description  Shows long filenames in Google Drive for mobile
+// @author       SK
 // @match        https://drive.google.com/drive*/mobile/*
 // @grant        none
 // @updateURL    https://github.com/skoshy/Google-Drive-Mobile-Long-Filenames/raw/main/userscript.user.js
