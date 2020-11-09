@@ -6,6 +6,7 @@
 // @author       You
 // @match        https://drive.google.com/drive*/mobile/*
 // @grant        none
+// @updateURL    https://github.com/skoshy/Google-Drive-Mobile-Long-Filenames/raw/main/userscript.user.js
 // ==/UserScript==
 
 (function() {
